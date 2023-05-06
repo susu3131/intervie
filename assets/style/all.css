@@ -642,6 +642,9 @@ Ensure the default browser behavior of the `hidden` attribute.
   display: -ms-flexbox;
   display: flex;
 }
+.hidden {
+  display: none;
+}
 .h-\[45px\] {
   height: 45px;
 }
@@ -820,7 +823,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-bg-opacity: 0.8;
 }
 .bg-bg-img {
-  background-image: url('../images/APAC-Sustainability-Landing page-header.png');
+  background-image: url('/assets/images/APAC-Sustainability-Landing page-header.png');
 }
 .to-blue-500 {
   --tw-gradient-to: #3b82f6;
@@ -1269,7 +1272,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   }
 
   .md\:bg-bg-img {
-    background-image: url('../images/APAC-Sustainability-Landing page-header.png');
+    background-image: url('/assets/images/APAC-Sustainability-Landing page-header.png');
   }
 
   .md\:bg-cover {
