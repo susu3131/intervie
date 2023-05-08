@@ -404,12 +404,6 @@ Ensure the default browser behavior of the `hidden` attribute.
     font-size: 36px;
   }
 }
-  @media (min-width: 1536px) {
-
-  h1 {
-    font-size: 40px;
-  }
-}
   h2 {
   font-size: 1.875rem;
   line-height: 2.25rem;
