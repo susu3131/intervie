@@ -1515,8 +1515,8 @@ Ensure the default browser behavior of the `hidden` attribute.
     width: 920px;
   }
 
-  .\32xl\:text-\[40px\] {
-    font-size: 40px;
+  .\32xl\:text-\[32px\] {
+    font-size: 32px;
   }
 
   .\32xl\:text-xl {
